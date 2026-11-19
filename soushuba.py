@@ -154,7 +154,7 @@ class SouShuBaClient:
 
 if __name__ == '__main__':
     try:
-        redirect_url = 'http://www.soushu2030.com'
+        redirect_url = 'https://nyt6y.bew2459m.com/forum.php'
         time.sleep(2)
         redirect_url2 = get_refresh_url(redirect_url)
         url = get_url(redirect_url2)
